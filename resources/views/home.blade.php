@@ -22,7 +22,7 @@
             <div class="container-fluid">
                 <div class="row">
                     <div class="col-lg-12">
-                        <h1>Welcom To My BLog</h1>
+                        <h1>Welcom To My BLog Sir</h1>
                         <p>In this blog you can create , update and delete post , category and tag.</p>
 
                     </div>
