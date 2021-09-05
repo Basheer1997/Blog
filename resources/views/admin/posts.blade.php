@@ -155,8 +155,8 @@
 
                 <div class="col-md-8">
                   <input
-                    class="form-control test"
-                    required="required"
+                    class="form-control "
+
                     autofocus="autofocus"
                     name="title"
                     type="text"
